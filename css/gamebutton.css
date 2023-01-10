@@ -1,7 +1,13 @@
+.px-21 {
+	padding-left: 21px;
+    padding-right: 21px;
+}
+
 .game-main-header {
 	background: #565656;
 	color: white;
-	padding: 21px 0px;
+	padding-top: 21px;
+	padding-bottom: 21px;
 }
 
 .game-main-header > div > img {
