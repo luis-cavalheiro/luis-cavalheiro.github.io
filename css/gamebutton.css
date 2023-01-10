@@ -1,0 +1,23 @@
+.game-main-header {
+	background: #565656;
+	color: white;
+	padding: 21px 0px;
+}
+
+.game-main-header > div > img {
+	height: 160px;
+}
+
+.game-info {
+	background: #f4f4f4;
+	overflow:overlay;
+	position: relative;
+}
+
+.game-info-img {
+	height: 160px;
+}
+
+.game-info-text {
+
+}
