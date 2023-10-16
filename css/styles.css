@@ -14,6 +14,14 @@
       }
 
 
+.game-main-header {    
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.game-main-header:hover {    
+  box-shadow: 0 8px 16px 0 rgba(143, 103, 179, 0.4), 0 12px 40px 0 rgba(143, 103, 179, 0.38) !important;
+}
+
       .game-info {
         transition: height 0.5s;
         height: 0px;
@@ -65,7 +73,7 @@
       }
 
       .home-gif-single {
-        background-image: url(../img/home.gif);
+        background-image: url(../img/starTrail1.gif);
         background-repeat: no-repeat;
         background-blend-mode: soft-light;
         background-position: center;
